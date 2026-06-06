@@ -491,6 +491,9 @@ Incremental lessons learning Swift.
 - [0423-event-emitter-pubsub](25-reactive/0423-event-emitter-pubsub/) — build a multi-topic EventEmitter with on(topic, handler), emit(topic, payload), and off(topic, handler)
 - [0424-reactive-signal-computed](25-reactive/0424-reactive-signal-computed/) — implement fine-grained reactivity: a writable signal and a derived computed that recomputes when its dependency changes
 
+### Reactive Frameworks
+- [0425-observable-create](26-reactive-frameworks/0425-observable-create/) — create a stream of 1, 2, 3 with your language's reactive library and print each value, then print done on completion
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
