@@ -503,6 +503,7 @@ Incremental lessons learning Swift.
 - [0433-zip-streams](26-reactive-frameworks/0433-zip-streams/) — use the library's zip operator to pair two streams by index and combine each pair as a+b
 - [0434-flatmap-streams](26-reactive-frameworks/0434-flatmap-streams/) — use the library's flatMap/mergeMap on a virtual/test scheduler, mapping each outer value to a timed inner stream and merging them
 - [0435-switch-map](26-reactive-frameworks/0435-switch-map/) — use the library's switchMap on a virtual/test scheduler so a new outer value cancels the previous inner stream
+- [0436-debounce-virtual-time](26-reactive-frameworks/0436-debounce-virtual-time/) — use the library's debounce operator on a virtual/test scheduler to emit a value only after a quiet window
 
 ## How to run
 
