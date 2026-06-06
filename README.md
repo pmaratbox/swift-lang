@@ -494,6 +494,7 @@ Incremental lessons learning Swift.
 ### Reactive Frameworks
 - [0425-observable-create](26-reactive-frameworks/0425-observable-create/) — create a stream of 1, 2, 3 with your language's reactive library and print each value, then print done on completion
 - [0426-map-operator](26-reactive-frameworks/0426-map-operator/) — use the library's map operator to double each value of a 1..4 stream
+- [0427-filter-operator](26-reactive-frameworks/0427-filter-operator/) — use the library's filter operator to keep the even values of 1..6
 
 ## How to run
 
