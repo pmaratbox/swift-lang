@@ -498,6 +498,7 @@ Incremental lessons learning Swift.
 - [0428-scan-accumulate](26-reactive-frameworks/0428-scan-accumulate/) — use the library's scan operator to emit the running sum of 1, 2, 3, 4
 - [0429-take-operator](26-reactive-frameworks/0429-take-operator/) — use the library's take operator to take the first 3 values of an unbounded stream, then complete
 - [0430-merge-streams](26-reactive-frameworks/0430-merge-streams/) — use the library's merge operator on a virtual/test scheduler to interleave two timed streams by emission time
+- [0431-concat-streams](26-reactive-frameworks/0431-concat-streams/) — use the library's concat operator so the second stream starts only after the first completes
 
 ## How to run
 
