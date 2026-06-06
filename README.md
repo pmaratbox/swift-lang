@@ -501,6 +501,7 @@ Incremental lessons learning Swift.
 - [0431-concat-streams](26-reactive-frameworks/0431-concat-streams/) — use the library's concat operator so the second stream starts only after the first completes
 - [0432-combine-latest](26-reactive-frameworks/0432-combine-latest/) — use the library's combineLatest operator on a virtual/test scheduler, emitting the latest pair whenever either timed source emits
 - [0433-zip-streams](26-reactive-frameworks/0433-zip-streams/) — use the library's zip operator to pair two streams by index and combine each pair as a+b
+- [0434-flatmap-streams](26-reactive-frameworks/0434-flatmap-streams/) — use the library's flatMap/mergeMap on a virtual/test scheduler, mapping each outer value to a timed inner stream and merging them
 
 ## How to run
 
