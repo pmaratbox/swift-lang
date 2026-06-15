@@ -505,6 +505,9 @@ Incremental lessons learning Swift.
 - [0435-switch-map](26-reactive-frameworks/0435-switch-map/) — use the library's switchMap on a virtual/test scheduler so a new outer value cancels the previous inner stream
 - [0436-debounce-virtual-time](26-reactive-frameworks/0436-debounce-virtual-time/) — use the library's debounce operator on a virtual/test scheduler to emit a value only after a quiet window
 
+### Databases (SQLite)
+- [0437-connect-and-query](27-database-sqlite/0437-connect-and-query/) — open an in-memory SQLite database and run a single query
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
