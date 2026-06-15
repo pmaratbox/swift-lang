@@ -541,6 +541,9 @@ Incremental lessons learning Swift.
 - [0475-required-option](30-cli-args/0475-required-option/) — declare an option as required
 - [0476-choice-option](30-cli-args/0476-choice-option/) — restrict an option to a set of choices
 
+### Date & Time Libraries
+- [0521-parse-and-format](36-datetime/0521-parse-and-format/) — parse an ISO date and format it back
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
