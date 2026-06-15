@@ -519,6 +519,9 @@ Incremental lessons learning Swift.
 - [0447-batch-insert](27-database-sqlite/0447-batch-insert/) — insert many rows efficiently in one transaction
 - [0448-upsert](27-database-sqlite/0448-upsert/) — insert or update on primary-key conflict
 
+### Serialization & JSON
+- [0459-serialize-object](29-serialization/0459-serialize-object/) — serialize a typed object to a compact JSON string
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
