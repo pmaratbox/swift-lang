@@ -551,6 +551,9 @@ Incremental lessons learning Swift.
 - [0527-timezone-offset](36-datetime/0527-timezone-offset/) — convert a UTC instant to a fixed offset
 - [0528-unix-timestamp](36-datetime/0528-unix-timestamp/) — epoch seconds of a UTC instant
 
+### Cryptography & Hashing
+- [0559-sha256](41-crypto-hashing/0559-sha256/) — sHA-256 hash of a string
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
