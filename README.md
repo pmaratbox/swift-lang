@@ -533,6 +533,7 @@ Incremental lessons learning Swift.
 
 ### CLI Argument Parsing
 - [0469-positional-argument](30-cli-args/0469-positional-argument/) — parse a positional argument
+- [0470-boolean-flag](30-cli-args/0470-boolean-flag/) — parse a boolean flag
 
 ## How to run
 
